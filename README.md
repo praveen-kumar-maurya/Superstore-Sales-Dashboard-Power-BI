@@ -65,3 +65,6 @@ DAX Expressions used for creating columns in Date table are:-
 
 # **Data Model**
 ![Image](https://github.com/user-attachments/assets/53510d1d-6934-49ee-8b77-14ee30cd82ba)
+
+# **Dashboard**
+![Image](https://github.com/user-attachments/assets/6c8a896e-ef9c-47be-8f98-334deae33ea5)
