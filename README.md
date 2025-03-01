@@ -64,4 +64,4 @@ DAX Expressions used for creating columns in Date table are:-
    if (my<10,dimDate[Fiscal year] & "0"& my,dimDate[Fiscal year] & my)
 
 # **Data Model**
-https://github.com/praveen-kumar-maurya/Superstore-Sales-Dashboard-Power-BI/blob/main/Data%20model%20for%20superstore%20sales%20dashboard.PNG
+![Image](https://github.com/user-attachments/assets/53510d1d-6934-49ee-8b77-14ee30cd82ba)
